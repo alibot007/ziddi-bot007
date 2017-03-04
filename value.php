@@ -126,7 +126,8 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.''.$jam.'<3 CHAUDHRYS BOTTER <3
-Self-site >>>> S3lf-b0t.ml <3
+
+Self-site >>>> self-bot007.ga <3
  '.$hr;
 }
 
