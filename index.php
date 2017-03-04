@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-ASMAT AMIN&trade;
+ARMAN KHAN&trade;
 
 </title><link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <script type="text/javascript" src=""></script>
@@ -309,7 +309,7 @@ echo'
 <div id="content">
 <div class="post">
 <div class="post-meta">
-<center><a href="http://facebook.com/SAD.BOY724"><img src="https://graph.facebook.com/100008480491919/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a> </a>
+<center><a href="http://facebook.com/X3.H4NDSOM3"><img src="https://graph.facebook.com/100009434565722/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a> </a>
 <h2 class="title">
 <div class="post-content">
 
@@ -337,7 +337,7 @@ echo'
 </span>
 </div></center><br>
 <center>
-<h3><a name="navigation-name" class="no-link">→ BOTTERS KING ASMAT AMIN ←</a></h3>
+<h3><a name="navigation-name" class="no-link">ARMAN KHAN</a></h3>
 <center><a href="https://goo.gl/CvenbL" target="blank">• Allow Permissions •</a></center>
 <br><a href="https://goo.gl/EwUiuu" target="blank">• Now Get Your Token •</a></center>
 <center>
@@ -363,7 +363,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-User Robot : <font color="red">'.count($user).'</font>
+User Robot :<font color="red">1'.count($user).'</font>
 </div>';
 }
 
@@ -443,5 +443,5 @@ if($_GET[token]){
 }
 ?>
 <audio autoplay loop>
-      <source src="http://download.mahamp3.com/986/Ijazat%20(Remix)%20-%20128Kbps.mp3">
+      <source src="http://www.instamp3.co/dl/VjyOXqqXzvA.html">
 </audio>
